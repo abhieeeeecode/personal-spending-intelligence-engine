@@ -1,0 +1,16 @@
+{
+  "name": "PSIE - Personal Spending Intelligence Engine",
+  "short_name": "PSIE",
+  "description": "AI-powered decision system for smarter spending",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1f",
+  "theme_color": "#1a1a1f",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
